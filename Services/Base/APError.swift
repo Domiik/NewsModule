@@ -1,9 +1,3 @@
-//
-//  APError.swift
-//  CHSURasp
-//
-//  Created by Domiik on 09.01.2023.
-//
 
 import SwiftUI
 

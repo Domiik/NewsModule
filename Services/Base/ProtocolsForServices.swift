@@ -1,9 +1,4 @@
-//
-//  ProtocolsForServices.swift
-//  CHSURasp
-//
-//  Created by Владимир Иванов on 27.04.2025.
-//
+
 
 import Foundation
 

@@ -1,9 +1,3 @@
-//
-//  InternetConnectionMonitor.swift
-//  CHSURasp
-//
-//  Created by Domiik on 09.02.2023.
-//
 
 import Foundation
 import Network
